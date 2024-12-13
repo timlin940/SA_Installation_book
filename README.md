@@ -14,6 +14,6 @@
 請看圖片
 ## 在Eclipse設定JDK
 
-1. 打開一個project，點選build path->configure build path
+1. 打開project，點選build path->configure build path
 2. 點選Libries，設定ModuelPath(點選Add Libraries)、ClassPath(點選Add External)
 ### 輸入程式碼
