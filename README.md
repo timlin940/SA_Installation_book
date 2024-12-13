@@ -10,6 +10,10 @@
 [下載 SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)點擊「Download SQL Server Management Studio (SSMS)」。
 ## 設定SSMS
 
-進入SSMS後建立資料庫(java)、使用者(project,密碼123456789)
+進入SSMS後建立資料庫(java)、使用者(名稱:project,密碼:123456789)
 請看圖片
+## 在Eclipse設定JDK
+
+1. 打開一個project，點選build path->configure build path
+2. 點選Libries，設定ModuelPath、ClassPath
 ### 輸入程式碼
