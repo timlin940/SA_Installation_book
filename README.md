@@ -1,4 +1,4 @@
-# Sa_物流撿貨系統安裝說明書
+# Sa_物流揀貨系統安裝說明書
 ### 安裝Eclipse
 
 請安裝[Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2024-12/R/eclipse-java-2024-12-R-win32-x86_64.zip)
