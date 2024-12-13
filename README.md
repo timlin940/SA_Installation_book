@@ -8,4 +8,8 @@
 ### 下載SSMS
 
 [下載 SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)點擊「Download SQL Server Management Studio (SSMS)」。
+## 設定SSMS
+
+進入SSMS後建立資料庫(java)、使用者(project,密碼123456789)
+請看圖片
 ### 輸入程式碼
