@@ -5,7 +5,7 @@
 
 另外，如果你電腦還未設定好JDK，那可以參考筆者之前寫的[Java JDK](https://www.kjnotes.com/devtools/35) 建議安裝JDK17。
 安裝與環境變數設定教學。
-### 下載SSMS
+### 下載SSMS(資料庫)
 
 [下載 SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)點擊「Download SQL Server Management Studio (SSMS)」。
 ## 設定SSMS
