@@ -1,5 +1,5 @@
 # Sa_物流揀貨系統安裝說明書
-### 安裝Eclipse
+### 安裝Eclipse(請看image-安裝Eclipse)
 
 請安裝[Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2024-12/R/eclipse-java-2024-12-R-win32-x86_64.zip)
 
@@ -8,12 +8,10 @@
 ### 下載SSMS(資料庫)
 
 [下載 SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)點擊「Download SQL Server Management Studio (SSMS)」。
-## 設定SSMS
+## 設定SSMS(請看image-ssms)
 
 進入SSMS後建立資料庫(java)、使用者(名稱:project,密碼:123456789)
-請看image-ssms
 ## 輸入程式碼
-
 
 ## 在Eclipse設定JDK
 
