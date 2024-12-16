@@ -35,3 +35,7 @@
 ![設定ModuelPath(2)](image/設定JDK/Module設定(2).png)
 3. 接著設定ClassPath(點選Add External，這邊選擇的是jre11.jar)
 ![設定ClassPath](image/設定JDK/ClassPath選定Jar版本.png)
+4. 完成設定的樣子，接著點選apply and close就可以了
+![完成設定的樣子](image/設定JDK/完整設定的樣子.png)
+
+## 執行程式碼
