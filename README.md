@@ -11,7 +11,7 @@
 ## 設定SSMS
 
 進入SSMS後建立資料庫(java)、使用者(名稱:project,密碼:123456789)
-請看圖片
+請看image-ssms
 ## 在Eclipse設定JDK
 
 1. 打開project，點選build path->configure build path
