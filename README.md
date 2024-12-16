@@ -17,6 +17,6 @@
 
 ## 在Eclipse設定JDK
 
-在正式啟動系統前，請先安裝好JDK驅動程式
-1. 打開project，點選build path->configure build path(image-)
+在正式啟動系統前，請先安裝好JDK驅動程式(請看image-設定JDK)
+1. 打開project，點選build path->configure build path
 2. 點選Libries，設定ModuelPath(點選Add Libraries)、ClassPath(點選Add External)
