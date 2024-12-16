@@ -10,14 +10,14 @@
 [下載 SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)點擊「Download SQL Server Management Studio (SSMS)」。
 ## 設定SSMS(請看image-ssms)
 
-進入SSMS後建立資料庫(java)、使用者(名稱:project,密碼:123456789)
+進入SSMS後建立資料庫
 1. 請先新增資料庫(名稱請設定為"java")，右鍵點擊資料庫，選擇新增資料庫。
 ![建立java資料庫](image/ssms/建立java資料庫.png)
 
 2. 新增使用者(名稱請設定為"project"，密碼為12345678，如果系統要求更改密碼，請改成123456789)
 ![新增使用者](image/ssms/新增使用者畫面.png)
 
-3. 設定使用者權限()
+3. 設定使用者權限(名稱請設定為"project"，密碼為12345678，如果系統要求更改密碼，請改成123456789)
 ![授予權限1](image/ssms/使用者權限授予(1).png)
 
 4. 設定使用者可以編寫資料庫
