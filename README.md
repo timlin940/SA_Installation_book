@@ -11,6 +11,7 @@
 ## 設定SSMS(請看image-ssms)
 
 進入SSMS後建立資料庫(java)、使用者(名稱:project,密碼:123456789)
+1. 請先建立資料庫(java)[建立java資料庫]()
 ## 輸入程式碼
 
 ## 在Eclipse設定JDK
