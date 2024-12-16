@@ -12,8 +12,11 @@
 
 進入SSMS後建立資料庫(java)、使用者(名稱:project,密碼:123456789)
 請看image-ssms
+## 輸入程式碼
+
+
 ## 在Eclipse設定JDK
 
-1. 打開project，點選build path->configure build path
+在正式啟動系統前，請先安裝好JDK驅動程式
+1. 打開project，點選build path->configure build path(image-)
 2. 點選Libries，設定ModuelPath(點選Add Libraries)、ClassPath(點選Add External)
-### 輸入程式碼
