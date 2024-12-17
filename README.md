@@ -22,8 +22,9 @@
 4. 設定使用者可以編寫資料庫
 ![授予權限2](image/ssms/使用者權限授予(2).png)
 ## 第三步 輸入程式碼
-1. 點選file、選擇import
-![]()
+1. 先複製github連結
+![](image/輸入程式碼/複製github連結.png) 
+2. 點選file、選擇import
 ![]()
 ![]()
 
