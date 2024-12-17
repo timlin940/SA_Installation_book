@@ -25,14 +25,17 @@
 1. 先複製github連結
 
 ![](image/輸入程式碼/複製github連結.png) 
+
 2. 點選file、選擇import、選擇git
 ![](image/輸入程式碼/選擇git_smart_import.png)
-3. 選擇git clone
+
+4. 選擇git clone
 ![](image/輸入程式碼/選擇git_clone_url.png)
 
-4. 輸入剛剛複製的github連結、輸入自己的github帳號、密碼
+5. 輸入剛剛複製的github連結、輸入自己的github帳號、密碼
 
 接下來一路按next就可以了
+![](image/輸入程式碼/最終畫面.png)
 
 ## 第四步 在Eclipse設定JDK
 
