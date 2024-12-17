@@ -21,10 +21,10 @@
 
 4. 設定使用者可以編寫資料庫
 ![授予權限2](image/ssms/使用者權限授予(2).png)
-## 輸入程式碼
+## 第三步 輸入程式碼
+1. 點選file、選擇import
 
-
-## 第三步 在Eclipse設定JDK
+## 第四步 在Eclipse設定JDK
 
 在正式啟動系統前，請先安裝好JDK驅動程式(請看image-設定JDK)
 1. 右鍵點開輸入的project，點選build path->configure build path
@@ -36,6 +36,6 @@
 4. 完成設定的樣子，接著點選apply and close就可以了
 ![完成設定的樣子](image/設定JDK/完整設定的樣子.png)
 
-## 第四步 執行程式碼
+## 第五步 執行程式碼
 1. 下載程式碼到你的workplace!
 2. 
