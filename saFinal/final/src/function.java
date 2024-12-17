@@ -466,8 +466,8 @@ public class function {
     }
 
     public static void main(String[] args) {
-//    	String[] results = makePlan();
-//        String deliverOrder = results[0];
-//        String pickingList = results[1];
+   	    String[] results = makePlan();
+        String deliverOrder = results[0];
+        String pickingList = results[1];
     }
 }
