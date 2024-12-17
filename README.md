@@ -23,9 +23,11 @@
 ![授予權限2](image/ssms/使用者權限授予(2).png)
 ## 第三步 輸入程式碼
 1. 先複製github連結
+
 ![](image/輸入程式碼/複製github連結.png) 
 2. 點選file、選擇import
-![]()
+![](image/輸入程式碼/選擇git_smart_import.png)
+3. 
 ![]()
 
 ## 第四步 在Eclipse設定JDK
